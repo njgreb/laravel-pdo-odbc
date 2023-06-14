@@ -1,8 +1,8 @@
 {
-  "name": "appsfortableau/laravel-pdo-odbc",
+  "name": "njgreb/laravel-pdo-odbc",
   "description": "PDO ODBC integration for Laravel 7 & 8 framework. Tested for Snowflake connections",
   "type": "library",
-  "homepage": "https://github.com/yoramdelangen/laravel-odbc",
+  "homepage": "https://github.com/njgreb/laravel-odbc",
   "license": "MIT",
   "authors": [
     {
@@ -14,7 +14,7 @@
     {
       "name": "Yoram de Langen",
       "email": "yoramdelangen@gmail.com",
-      "homepage": "https://github.com/yoramdelangen",
+      "homepage": "https://github.com/njgreb",
       "role": "Developer"
     }
   ],
